@@ -1,0 +1,16 @@
+PODS:
+  - JVSizeable (0.1.0)
+
+DEPENDENCIES:
+  - JVSizeable (from `../`)
+
+EXTERNAL SOURCES:
+  JVSizeable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVSizeable: 4050e0aa7f3eb16497687b2f946a5c9b8a071a05
+
+PODFILE CHECKSUM: 1f96686b593cd6c1a9d4c8f0b240042980aa0ad9
+
+COCOAPODS: 1.6.0.beta.1
